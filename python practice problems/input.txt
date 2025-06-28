@@ -1,0 +1,3 @@
+This is a sample input file.
+We are learning file handling in Python.
+This is written using write() method.

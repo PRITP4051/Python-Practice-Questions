@@ -1,0 +1,6 @@
+#wap to demonstrate exceptions in python considering ZeroDivisionError,
+# TypeError,ValueError,AttributeError,NameError,ImportError,IOError
+
+#for that errors try and except values and give output
+
+
